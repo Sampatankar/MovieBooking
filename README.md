@@ -1,9 +1,3 @@
-# MovieBooking
-Vanilla JS project working with the DOM
-
-This project is the second project in Brad Traversy's Udemy course: 20 JavaScript Projects.  I am working through these as I study the Modern JS course from the same author.
-
-The app specification:
 ## Movie Seat Booking
 
 Display movie choices and seats in a theater to select from in order to purchase tickets
